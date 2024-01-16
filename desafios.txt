@@ -1,0 +1,69 @@
+Retos de lógica y matemáticas:
+
+If - else if - else
+
+Adivina el número: Genera un número aleatorio entre 1 y 100. Pide al usuario que adivine el número en el menor número de intentos posible. Utiliza if else elseif para dar pistas como "mayor", "menor", "adivinaste".
+Clasifica triángulos: Pide al usuario que ingrese la longitud de los tres lados de un triángulo. Usa if else elseif para determinar si es equilátero, isósceles, escaleno o no es un triángulo.
+Calculadora de descuentos: Crea una calculadora de descuentos basada en el total de la compra y el código de descuento ingresado. Aplica diferentes descuentos (if), descuentos especiales para clientes VIP (elseif), o precio sin descuento (else).
+Juego de piedra, papel o tijera: Crea un programa que juegue piedra, papel o tijera contra el usuario. Utiliza if else elseif para determinar el ganador y mostrar mensajes como "ganaste", "perdiste", o "empate".
+Retos de simulación y texto:
+
+Asistente de vestimenta: Pide al usuario información sobre el clima y la ocasión. Utiliza if else elseif para sugerirle diferentes prendas de vestir en función de las condiciones.
+Adivina la fruta: Describe una fruta con pistas sensoriales (color, sabor, textura). Deja que el usuario adivine la fruta usando preguntas con respuestas sí o no. Utiliza if else elseif para responder a las preguntas y revelar la fruta cuando se adivine.
+Analizador de emociones: Lee una frase del usuario e identificala como positiva, negativa o neutral. Utiliza if else elseif para analizar palabras clave relacionadas a las emociones.
+Generador de historias: Crea una historia interactiva donde el usuario toma decisiones en puntos clave. Utiliza if else elseif para ramificar la historia en diferentes caminos basedo en las elecciones del usuario.
+Retos creativos:
+
+Traductor de emojis: Pide al usuario una frase y traduce cada palabra a un emoji similar. Crea reglas divertidas para la traducción utilizando if else elseif (por ejemplo, "perro" a , "flor" a ).
+Creador de rimas: Introduce una palabra y genera rimas usando un diccionario de rimas y if else elseif para encontrar palabras con sonidos similares.
+
+Switch - case - break
+
+Escribe un programa que lea un día de la semana y muestre el nombre del día correspondiente.
+Escribe un programa que lea una calificación de un examen y muestre la letra correspondiente.
+Escribe un programa que lea un número entero y muestre si es par o impar.
+Escribe un programa que lea un número entero y muestre el día de la semana correspondiente.
+Escribe un programa que lea un número entero y muestre el mes correspondiente.
+Escribe un programa que lea un número entero y muestre la estación del año correspondiente.
+Escribe un programa que lea un color y muestre su código hexadecimal.
+Escribe un programa que lea un número entero y muestre su signo zodiacal.
+Escribe un programa que lea un nombre de país y muestre su capital.
+
+Switch - case - break switch expressions
+
+Escribe un programa que lea un número entero y muestre su signo zodiacal.
+Escribe un programa que lea una calificación de un examen y muestre la letra correspondiente.
+Escribe un programa que lea un número entero y muestre el tipo de triángulo correspondiente.
+Escribe un programa que lea un número entero y muestre si es un número primo.
+Escribe un programa que lea una letra y muestre si es una vocal.
+Escribe un programa que lea un número entero y muestre su día de la semana correspondiente.
+Escribe un programa que lea un número entero y muestre su mes correspondiente.
+Escribe un programa que lea un número entero y muestre su estación del año correspondiente.
+Escribe un programa que lea un número entero y muestre el color correspondiente.
+Escribe un programa que lea un número entero y muestre el estado de un semáforo.
+
+Estrutura for
+
+Escribe un programa que imprima los números del 1 al 10.
+Escribe un programa que imprima los números pares del 1 al 10
+Escribe un programa que imprima los cuadrados de los números del 1 al 10.
+Escribe un programa que imprima los múltiplos de 5 del 1 al 100.
+Escribe un programa que imprima la suma de los números del 1 al 10.
+Escribe un programa que imprima el factorial de un número introducido por el usuario.
+Escribe un programa que imprima la tabla de multiplicar de un número introducido por el usuario.
+Escribe un programa que imprima los números primos del 1 al 100.
+Escribe un programa que imprima la secuencia de Fibonacci hasta el número 100.
+Escribe un programa que imprima los números triangulares del 1 al 100.
+
+Estrutura While
+
+Imprimir el factorial de un número dado
+Imprimir la suma de los números del 1 al 100
+Imprimir la media de los números del 1 al 100
+Imprimir el número de veces que aparece un número dado en una lista
+Imprimir la lista de los números que aparecen más de una vez en una lista
+Imprimir los números primos del 1 al 100
+Imprimir los números pares del 1 al 100
+Imprimir los números impares del 1 al 100
+Imprimir los números del 100 al 1, contando hacia atrás
+Imprimir un cuadrado de asteriscos de tamaño n
