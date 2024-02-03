@@ -1,0 +1,32 @@
+****Ejercicios para practicar If Else *****
+Ejercicio 1: Número positivo o negativo
+Escribe un programa que tome un número como entrada e imprima "Es un número positivo" si es mayor que cero, o "Es un número negativo" si es menor que cero. Si es igual a cero, muestra "El número es cero".
+
+Ejercicio 2: Calificación de un examen
+Escribe un programa que tome una calificación como entrada (por ejemplo, un número entre 0 y 100) y determine si el estudiante aprobó (calificación mayor o igual a 60) o no aprobó (calificación menor a 60).
+
+Ejercicio 3: Determinar el número más grande
+Escribe un programa que tome tres números como entrada e imprima el número más grande.
+
+Ejercicio 4: Día de la semana
+Escribe un programa que tome un número (1 al 7) como entrada e imprima el día de la semana correspondiente (por ejemplo, 1 -> "Lunes", 2 -> "Martes", etc.).
+
+Ejercicio 5: Comprobar si un número es par o impar
+Escribe un programa que tome un número como entrada y determine si es par o impar. Puedes usar el operador % (módulo) para verificar si un número es divisible por 2.
+
+Ejercicio 6: Calculadora básica
+Escribe un programa que tome dos números y un operador (por ejemplo, +, -, *, /) como entrada y realice la operación correspondiente.
+
+Ejercicio 7: Determinar si un año es bisiesto
+Escribe un programa que tome un año como entrada e indique si es un año bisiesto o no. Un año bisiesto es aquel divisible por 4, excepto aquellos divisibles por 100 pero no por 400.
+
+Ejercicio 8: Categorizar edades
+Escribe un programa que tome la edad de una persona como entrada y la clasifique en las siguientes categorías: niño (0-12 años), adolescente (13-19 años), adulto (20-64 años), o adulto mayor (65 años o más).
+
+Ejercicio 9: Calculadora de IMC (Índice de Masa Corporal)
+Escribe un programa que calcule el Índice de Masa Corporal (IMC) de una persona. El IMC se calcula como peso (en kilogramos) dividido por la altura (en metros) al cuadrado. Luego, categoriza el IMC en "Bajo peso", "Peso normal", "Sobrepeso" u "Obesidad".
+
+Ejercicio 10: Juego de adivinanza
+Crea un juego simple en el que el programa elige un número aleatorio entre 1 y 100 y le pide al usuario que adivine el número. Proporciona pistas como "Demasiado alto" o "Demasiado bajo" hasta que el usuario adivine correctamente.
+
+Estos ejercicios te ayudarán a practicar y mejorar tus habilidades con estructuras condicionales if, else y if-else en programación. Puedes implementarlos en el lenguaje de programación que estés aprendiendo o usando actualmente.
