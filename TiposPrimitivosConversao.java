@@ -4,12 +4,12 @@ Embora o peso das cargas sejam com decimais (ponto-flutuante), o usuário quer s
 
 Finalize o programa exibindo o peso total das cargas em inteiro.*/
 
-public class TiposPromitivosConversao {
-  public static void main(String[] args) {
-    double pesoCarga1 = 1033.49;
-    double pesoCarga2 = 849.88;
-    int pesoTotalCarga = (int) (pesoCarga1 + pesoCarga2);
-    
-    System.out.println("Peso total das cargas " + pesoTotalCarga);
-  }
+public class TiposPrimitivosConversao {
+	public static void main(String[] args) {
+		double pesoCarga1 = 1033.49;
+		double pesoCarga2 = 849.88;
+		int pesoTotalCarga = (int) (pesoCarga1 + pesoCarga2);
+
+		System.out.println("Peso total das cargas " + pesoTotalCarga);
+	}
 }
